@@ -1,13 +1,16 @@
-BabuMounika 
-I'm Mounika,Here is a short introduction about myself
--📍Chittoor,Andhra pradesh
-- 🔭 I’m currently studying in Saveetha Engineering College.Thandalam.
-- 🌱 I’m currently learning programming languages like c programming,python and javascripts..
-- 👯 I’m looking to collaborate on full-stack wevb development especially those ivolving the MERN stack, or any innovative
-  ideas around content creation...
-- 📫 How to reach me: linkedIn|Github|Email
-- Email :mounika.m756@gmail.com
-- My hobbies are like listening to music, drawing and travelling etc..
-- Languages known :Telugu,Hindi,English,Kannada
--Github link:https://github.com/BabuMounika
--Fun fact :🦥 I commit slowly, but I commit surely.
+
+# 👋 Hey there! I'm Mounika
+
+🎓 I’m currently studying at **Saveetha Engineering College, Thandalam**  
+🌱 Learning **C programming**, **Python**, and **JavaScript**  
+👯 Looking to collaborate on **full-stack web development** projects, especially using the **MERN stack**, or any innovative ideas around **content creation**  
+📫 **Reach me at**:  
+- [LinkedIn](#) | [GitHub](https://github.com/BabuMounika) | ✉️ mounika.m756@gmail.com  
+
+🎨 **Hobbies**: Listening to music, drawing, and traveling  
+🗣️ **Languages Known**: Telugu, Hindi, English, Kannada  
+📍 **Location**: Chittoor, Andhra Pradesh  
+
+ 🌟 Fun Fact  
+🦥 *I commit slowly, but I commit surely.*
+
