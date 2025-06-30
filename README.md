@@ -7,7 +7,7 @@
 📫 **Reach me at**:  
 - [LinkedIn](#) | [GitHub](https://github.com/BabuMounika) | ✉️ mounika.m756@gmail.com  
 
-🎨 **Hobbies**: Listening to music, drawing, and traveling  
+🎨 **Hobbies**: Listening to music, drawing, and travelling  
 🗣️ **Languages Known**: Telugu, Hindi, English, Kannada  
 📍 **Location**: Chittoor, Andhra Pradesh  
 
